@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/status-placeholder-lightgrey" alt="Status"/>
-  <img src="https://img.shields.io/badge/ecosystem-norikit-32C572" alt="norikit"/>
-  <img src="https://img.shields.io/badge/license-AGPL--3.0-blue" alt="License"/>
-</p>
 
 <p align="center">
   <picture>
