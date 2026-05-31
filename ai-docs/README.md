@@ -1,6 +1,6 @@
-# {{PROJECT}} knowledge base
+# noriset knowledge base
 
-This directory is the **single source of truth** for {{PROJECT}}'s design intent and project
+This directory is the **single source of truth** for noriset's design intent and project
 knowledge. It is the knowledge base every AI agent and contributor should read before
 working in this repo. (AI agents: the repo entry point is the root
 [`CLAUDE.md`](../CLAUDE.md), which points here.)

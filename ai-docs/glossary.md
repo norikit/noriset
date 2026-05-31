@@ -1,6 +1,6 @@
 # Glossary
 
-Domain terms used across {{PROJECT}}'s docs and code. Keep entries short; link out for
+Domain terms used across noriset's docs and code. Keep entries short; link out for
 depth.
 
 - **norikit** — the ecosystem this project belongs to: a suite of native macOS

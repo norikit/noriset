@@ -10,4 +10,4 @@ locked. Not yet usable.
 
 ## Changelog
 
-- **{{DATE}}** — Repo bootstrapped from the norikit template scaffold.
+- **2026-05-31** — Repo bootstrapped from the norikit template scaffold.
