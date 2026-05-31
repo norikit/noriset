@@ -1,6 +1,6 @@
-# CLAUDE.md — entry point for AI agents working in {{PROJECT}}
+# CLAUDE.md — entry point for AI agents working in noriset
 
-**You are working on `{{PROJECT}}` (a project of the `norikit` org): {{TAGLINE}}.**
+**You are working on `noriset` (a project of the `norikit` org): a norikit tool (purpose TBD).**
 
 This file is the front door. Before doing substantive work, read the knowledge base.
 

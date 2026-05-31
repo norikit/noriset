@@ -1,24 +1,19 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/status-{{STATUS}}-orange" alt="Status"/>
-  <img src="https://img.shields.io/badge/ecosystem-norikit-32C572" alt="norikit"/>
-  <img src="https://img.shields.io/badge/license-AGPL--3.0-blue" alt="License"/>
-</p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"/>
-    <img src="assets/hero-light.svg" alt="{{PROJECT}}" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/norikit/norikit/main/assets/noriset/hero/dark_theme.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/norikit/norikit/main/assets/noriset/hero/light_theme.svg"/>
+    <img src="https://raw.githubusercontent.com/norikit/norikit/main/assets/noriset/hero/light_theme.svg" alt="noriset" width="100%"/>
   </picture>
 </p>
 
 <p align="center">
-  <strong>{{PROJECT}}</strong> is {{TAGLINE}} for the <strong>norikit</strong> ecosystem.<br/>
-  {{ECOSYSTEM_ROLE}}
+  <strong>noriset</strong> is a norikit tool (purpose TBD) for the <strong>norikit</strong> ecosystem.<br/>
+  Purpose not yet defined.
 </p>
 
 > [!NOTE]
-> Work in progress. {{PROJECT}} is in early development and not yet usable.
+> Work in progress. noriset is in early development and not yet usable.
 
 ## About
 
@@ -36,7 +31,7 @@ tracked under **[`tasks/`](tasks/)**.
 
 ## Building
 
-Requires {{OS_FLOOR}}+.
+Requires macOS 13+.
 
 <!-- TEMPLATE: document the headless self-test invocation and the real run invocation. -->
 

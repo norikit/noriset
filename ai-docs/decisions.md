@@ -11,8 +11,8 @@ rationale (and consequences/risks where relevant). Tasks cite the `D#` they prod
 
 ## D1 — Target platform & stack
 
-- **Status:** _Proposed / Locked ({{DATE}})_
-- **Decision:** _e.g. native Swift application targeting {{OS_FLOOR}}._ <!-- TEMPLATE -->
+- **Status:** _Proposed / Locked (2026-05-31)_
+- **Decision:** _e.g. native Swift application targeting macOS 13._ <!-- TEMPLATE -->
 - **Rationale:** _Why this stack gives the best performance/feature set for this tool.
   Stack is a per-project choice, not a house default — justify it._
 

@@ -1,6 +1,6 @@
 # Architecture
 
-The evolving system design for {{PROJECT}} — modules, data flow, threading, and any
+The evolving system design for noriset — modules, data flow, threading, and any
 render/update loop. Keep this current as the design changes (see the
 [maintenance protocol](README.md)).
 
@@ -17,7 +17,7 @@ render/update loop. Keep this current as the design changes (see the
 Product code is grouped by responsibility — one directory per architectural layer under
 Sources/, named for what it does. List the layers here as they appear, e.g.:
 
-- `Sources/{{PROJECT}}/<Layer>/` — <responsibility>
+- `Sources/noriset/<Layer>/` — <responsibility>
 -->
 
 ## Data flow
