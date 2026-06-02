@@ -36,8 +36,8 @@ name: Human-readable task title
 type: spike                       # spike | milestone | chore
 status: ready                     # draft | ready | in-progress | blocked | complete | superseded
 verdict: n/a                      # spikes: GO | NO-GO | n/a ; others: n/a
-created: 2026-05-31
-updated: 2026-05-31
+created: 2026-06-02
+updated: 2026-06-02
 resolves: [Q1]                    # open-questions this task closes (see ai-docs/open-questions.md)
 decisions: [D2]                   # decisions it produced (see ai-docs/decisions.md)
 depends_on: []                    # other task ids this one builds on
